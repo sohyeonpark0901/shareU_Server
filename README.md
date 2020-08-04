@@ -1,6 +1,7 @@
 # ShareU SERVER
 
-<center><img src="C:\Users\PK\Desktop\image\icon" width="400" height="400"></center>
+ ![shareUgraphicImage](https://user-images.githubusercontent.com/40001772/80809597-f6fcbf00-8bfc-11ea-8fe0-49d9130bf1da.jpg)
+ ![KakaoTalk_20200604_150151043](https://user-images.githubusercontent.com/40001772/83720666-7a825380-a674-11ea-8bec-66b7a0eff3ca.jpg)
 
 인천대학교 과제/자료 공유 어플리케이션
 
