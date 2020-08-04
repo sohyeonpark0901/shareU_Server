@@ -1,6 +1,6 @@
 # ShareU SERVER
 
-<center><img src="/image/icon.png" width="400" height="400"></center>
+<center><img src="C:\Users\PK\Desktop\image\icon" width="400" height="400"></center>
 
 인천대학교 과제/자료 공유 어플리케이션
 
