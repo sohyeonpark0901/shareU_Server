@@ -55,7 +55,7 @@
 - Server
 
   - [박소현](https://github.com/sohyeonpark0901)
-  - 김정윤
+  - [김정윤](https://github.com/rlawjddbs963@naver.com)
 
 - Design
 
